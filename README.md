@@ -1,6 +1,6 @@
 # Networking-Task1
 Networking Internship Task 01 Report
-Date: 08 June 2026
+Date: 05 June 2026
 Intern: Riddhi Kshatriya
 
 Task Objectives
